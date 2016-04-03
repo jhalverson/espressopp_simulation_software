@@ -6,3 +6,4 @@ The redesigned Extensible Simulation Package for Research on Soft matter systems
 
 * View the C++ and Python source code: https://github.com/espressopp/espressopp
 * View the publication: http://bit.ly/1P2Q1AF
+* Visit the project website: https://www.espresso-pp.de
